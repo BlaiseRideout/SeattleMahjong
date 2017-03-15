@@ -1,0 +1,25 @@
+baseurl = "https://seattlemahjong.com/"
+languageCode = "en-us"
+title = "Seattle Mahjong"
+theme = "blank"
+[menu]
+	[[menu.main]]
+	identifier = "about"
+	name = "About Us"
+	url = "/about"
+	weight = 0
+
+	[[menu.main]]
+	identifier = "beginners"
+	name = "Beginner's Guide"
+	url = "/beginners"
+	weight = 0
+
+	[[menu.main]]
+	identifier = "yaku"
+	name = "Guide to Yaku"
+	url = "/yaku"
+	weight = 0
+
+[blackfriday]
+extensions = ["hardLineBreak"]
