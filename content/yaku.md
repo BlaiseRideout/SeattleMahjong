@@ -10,11 +10,11 @@ In order to help new players this list contains sets of yaku ranked from beginne
 For a guide on counting Fu, see the end of this page. (or [click here](#fu-scoring-guide))
 
 
-# Basic Yaku
+## Basic Yaku
 Basic yaku are defined by their simplicity and ability to be played open and closed as opposed to only closed. In general these yaku allow for fast "cheap" hands.
 
 
-## Yaku-Hai (Honor Tiles) 役牌
+### Yaku-Hai (Honor Tiles) 役牌
 Difficulty: Beginner
 Can Be Completed: Open/Closed
 Han Value: 1
@@ -28,7 +28,7 @@ In this example the RED DRAGON triplet is your yaku
 
 ---
 
-## Tan-Yao (All Simples) 断么
+### Tan-Yao (All Simples) 断么
 Difficulty: Beginner
 Can Be Completed: Open/Closed
 Han Value: 1
@@ -42,7 +42,7 @@ There are no terminals (1's or 9's) or honor tiles (winds or dragons) in this ha
 
 ---
 
-## Tsumo (Self Draw Win) 門前清自摸和
+### Tsumo (Self Draw Win) 門前清自摸和
 Difficulty: Beginner/Intermediate
 Can Be Completed: Closed Only
 Han Value: 1
@@ -52,7 +52,7 @@ This yaku is the first in our series of CLOSED ONLY hands. Tsumo is simple in th
 
 ---
 
-## Pin-Fu (All Runs) 平和
+### Pin-Fu (All Runs) 平和
 Difficulty: Beginner/Intermediate
 Can Be Completed: Closed Only
 Han Value: 1
@@ -75,7 +75,7 @@ This pinfu hand has a two sided wait shown in blue, with a winning tile being a 
 
 ---
 
-## Riichi (Ready) 立直
+### Riichi (Ready) 立直
 Difficulty: Beginner/Intermediate
 Can Be Completed: Closed Only
 Han Value: 1
@@ -93,16 +93,19 @@ Riichi is a special hand that is unique to Japanese mahjong. Declaring riichi is
 
 ---
 
-## Ippatsu  (One Shot) 一発
+### Ippatsu  (One Shot) 一発
 Han Value: 1
 
 Ippatsu occurs when a player has declared Riichi and wins within one rotation.
 
-# Intermediate Yaku
+
+---
+
+## Intermediate Yaku
 These yaku are more difficult to obtain due to the fact that they consist of more stringent win conditions that have more specific tile arrangements. Despite being more difficult to complete they are worth more points generally. It is recommended that you familiarize yourself with the basic yaku first!
 
 
-## Chiitoitsu (7 Pairs) 七対
+### Chiitoitsu (7 Pairs) 七対
 Difficulty: Intermediate
 Can Be Completed: Closed
 Han Value: 2
@@ -116,7 +119,7 @@ Chiitotsu has 7 pairs and special conditions
 
 ---
 
-## Itsu (Straight)  一通
+### Itsu (Straight)  一通
 Difficulty: Intermediate
 Can Be Completed: Open/Closed
 Han Value: 1 Open / 2 Closed
@@ -130,7 +133,7 @@ The Itsu yaku is the 1-9 of bamboo shown in red
 
 ---
 
-## Honitsu (Half Flush) 混一色
+### Honitsu (Half Flush) 混一色
 Difficulty: Intermediate
 Can Be Completed: Open/Closed
 Han Value: 2 Open / 3 Closed
@@ -144,7 +147,7 @@ Honitsu hands can only contain one suit and honor tiles
 
 ---
 
-## Chinitsu (Flush) 混一色
+### Chinitsu (Flush) 混一色
 Difficulty: Intermediate
 Can Be Completed: Open/Closed
 Han Value: 5 Open / 6 Closed
@@ -158,7 +161,7 @@ This chinitsu hand consists of only one suit, no honor tiles allowed
 
 ---
 
-## Toitoi (All Sets) 対々
+### Toitoi (All Sets) 対々
 Difficulty: Intermediate
 Can Be Completed: Open
 Han Value: 2
@@ -174,7 +177,7 @@ This hand consists of all triplets and a pair and can be done open as TOI TOI or
 This is not a full list of yaku, advanced yaku and yakuman (Special yaku) are not included in this list. For a full list of yaku [follow this link.](http://en.wikipedia.org/wiki/Japanese_Mahjong_yaku)
 
 
-# Fu Scoring Guide
+## Fu Scoring Guide
 
 This is a quick guide to counting fu
 

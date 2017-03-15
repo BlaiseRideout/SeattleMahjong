@@ -41,25 +41,29 @@ A Japanese mahjong set consists of 136 tiles containing 3 suits containing 4 set
 ### Dragons (Green-Hatsu, Red-Chun, White-Haku)
 ![dragons](/images/dragons.png)
 
+---
 
-# Point Sticks
-## 10,000 Point stick
+
+## Point Sticks
+### 10,000 Point stick
 ![10,000](/images/10000.png)
 
 ---
 
-## 5,000 Point stick
+### 5,000 Point stick
 ![5,000](/images/5000.png)
 
 ---
 
-## 1,000 Point stick
+### 1,000 Point stick
 ![1,000](/images/1000.png)
 
 ---
 
-## 100 Point stick
+### 100 Point stick
 ![100](/images/100.png)
+
+---
 
 
 ## Starting A Game
