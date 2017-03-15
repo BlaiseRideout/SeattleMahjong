@@ -5,7 +5,7 @@ draft = false
 
 +++
 
-In order to help new players this list contains sets of yaku ranked from beginner to advanced. Beginners shouldn't worry about remembering all of the yaku at once in order to start playing mahjong. Rather, they should start with basic yaku and work on memorizing the rules, then move onto being able to identify more complicated yaku. Hands may have multiple yaku and more expensive yaku usually contain mixtures of advanced and basic yaku. This guide **does not have a full list of yaku,** it only covers basic yaku. For a complete list of yaku, [click here.](http://en.wikipedia.org/wiki/Japanese_Mahjong_yaku)
+In order to help new players this list contains sets of yaku ranked from beginner to advanced. Beginners shouldn't worry about remembering all of the yaku at once in order to start playing mahjong. Rather, they should start with basic yaku and work on memorizing the rules, then move onto being able to identify more complicated yaku. Hands may have multiple yaku and more expensive yaku usually contain mixtures of advanced and basic yaku. This guide **does not have a full list of yaku,** it only covers basic yaku. For a complete list of yaku, <a href="http://en.wikipedia.org/wiki/Japanese_Mahjong_yaku" target="_blank">click here.</a>
 
 For a guide on counting Fu, see the end of this page. (or [click here](#fu-scoring-guide))
 
