@@ -75,9 +75,13 @@ main:not(#cover) {
 	padding:1em;
 }
 
-@media(max-width:800px) {
+@media(max-width:870px) {
 	nav a {
 		display:block;
+	}
+
+	header #title {
+		position: relative;
 	}
 }
 
