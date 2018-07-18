@@ -6,15 +6,15 @@ draft = false
 +++
 
 ## Getting Started
-This guide is meant to be used to help introduce new players to the game of riichi mahjong. Advanced terms and rules are omitted here in the interest of accessibility. After much experience teaching brand new players, I believe this is the best method to start playing and understanding the game quickly. Be forewarned that in order to fully grasp all the intricacies and strategies of Japanese mahjong, players should find locals in their own area to play with and learn from. There are also many mahjong resources available online as well as websites that feature online play. (Links at the end of the page)
+This guide is meant to help introduce new players to the game of riichi mahjong. Advanced terms and rules are omitted here in the interest of accessibility. After much experience teaching brand new players, we believe this is the best method to start playing and understanding the game quickly. Be forewarned that in order to fully grasp all the intricacies and strategies of Japanese mahjong, players should find locals in their own area to play with and learn from. There are also many mahjong resources available online as well as websites that feature online play. (Links at the end of the page)
 
 
 ## Basic Rules
-Japanese mahjong, also known as riichi mahjong, is a style of mahjong developed in Japan in the early 1900's. It borrows many of the rules from traditional Chinese mahjong with some additions and omissions.
+Japanese mahjong, also known as _riichi mahjong_, is a style of mahjong developed in Japan in the early 1900's. It borrows many of the rules from traditional Chinese mahjong with some additions and omissions.
 
 
 ## Materials
-A Japanese mahjong set consists of 136 tiles containing 3 suits containing 4 sets of tiles numbered 1 - 9 as well as 4 wind tiles and 3 dragon tiles. Points are scored with point sticks in denominations of 10,000, 5,000, 1,000 and 100. Each player starts a standard game with 25,000 points. A set of dice are also needed and the game is usually played on a mahjong mat or table. Links to mahjong supplies at the end of the guide.
+A Japanese mahjong set consists of 136 tiles containing 3 suits containing 4 sets of tiles numbered 1 - 9 as well as 4 wind tiles and 3 dragon tiles. Points are scored with sticks in denominations of 10,000, 5,000, 1,000, 100, and sometimes 500 points. Each player starts a standard game with 25,000 points. A set of dice are also needed and the game is usually played on a mahjong mat or table. Links to mahjong supplies at the end of the guide.
 
 
 ## Tile Suits
@@ -65,6 +65,8 @@ A Japanese mahjong set consists of 136 tiles containing 3 suits containing 4 set
 
 ---
 
+The 500 Point stick usually has the same dot pattern as that of the
+100 Point stick but with a different colored stick, typically green.
 
 ## Starting A Game
 The game is broken up into hands, each of which has one player acting as the "dealer". In a normal game each of the four players will get to be dealer twice.
@@ -116,11 +118,24 @@ Calling "ron" is a call that ends the hand and must be preformed before the next
 A hand is completed if a player declares victory by completing a hand of 14 tiles consisting of 4 sets or runs of 3 tiles as well as a pair as well as having at least one **yaku.** If the dealer wins the hand they remain dealer and get a BONUS hand called a honba.
 
 
-[Follow the link here for descriptions of yaku for beginner mahjong players.](/yaku)
+Follow the [link here for descriptions of yaku](/yaku) for beginner mahjong players.
 
 
-[You can also score your hand here.](https://seattlemahjong.club/pointcalculator)
+Our club web site has a [handy scoring tool.](https://seattlemahjong.club/pointcalculator)
 
 
 ## Game End
 The game ends when all players have completed 2 rounds as dealer not including bonus hands, East 1, East 2, East 3, East 4, South 1, South 2, South 3, and South 4.
+
+## Links
+You can find many places online that sell mahjong sets.
+We have frequently used [Yellow Mountain Imports](https://ymimports.com) for
+our equipment.
+
+The [World Riichi Championship web site](https://worldriichi.org/) has
+resources for their regular competitions.  They publish an
+[official rule set](https://worldriichi.org/wrc-rules/) that the
+Seattle Riichi Mahjong Club largely follows.
+
+
+
