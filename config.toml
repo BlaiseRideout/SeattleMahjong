@@ -21,5 +21,11 @@ theme = "blank"
 	url = "/yaku"
 	weight = 0
 
+	[[menu.main]]
+	identifier = "scores"
+	name = "Leaderboard and Games"
+	url = "https://seattlemahjong.club"
+	weight = 0
+
 [blackfriday]
 extensions = ["hardLineBreak"]
