@@ -1,6 +1,6 @@
 baseurl = "https://seattlemahjong.com/"
 languageCode = "en-us"
-title = "Seattle Mahjong"
+title = "Seattle Riichi Mahjong"
 theme = "blank"
 [menu]
 	[[menu.main]]
