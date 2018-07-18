@@ -107,3 +107,12 @@ img.Logo {
 	float: left;
 	transform:translateY(-20%);
 }
+
+div.central {
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+    height: 70%;
+    z-index: 1;
+    text-align: center;
+}
