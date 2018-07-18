@@ -42,7 +42,7 @@ header #title {
 	left:0;
 	top:50%;
 	transform:translateY(-50%);
-	margin-left:1em;
+	margin-left:4em;
 	color:white;
 	font-size:1.5em;
 }
@@ -95,4 +95,11 @@ main:not(#cover) {
 
 img {
 	width:100%;
+}
+
+img.Logo {
+	height: 100px;
+	width: 71px;
+	float: left;
+	transform:translateY(-20%);
 }
