@@ -112,7 +112,7 @@ div.central {
     margin: auto;
     margin-top: 5%;
     width: 50%;
-    height: 70%;
+    height: auto;
     z-index: 1;
     text-align: center;
 }

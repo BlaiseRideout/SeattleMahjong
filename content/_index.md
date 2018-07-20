@@ -10,4 +10,4 @@ expiryDate = "2018-07-25T11:39:36-07:00"
 <img src="/images/2018-SROpen-flier-banner.png" alt="2018 Seattle Riichi Open Banner">
 </a>
 
-The Seattle Riichi Mahjong Club is proud to present the [2018 Seattle Riichi Open tournament](https://seattleriichi.wordpress.com/2018-seattle-riichi-open/).  Follow the link to get all the information about this exciting event in July 2018
+The Seattle Riichi Mahjong Club is proud to present the [2018 Seattle Riichi Open tournament](https://seattleriichi.wordpress.com/2018-seattle-riichi-open/).  Follow the link to get all the information about this exciting event in July 2018.  You can watch the live webstream on [our YouTube channel](https://www.youtube.com/channel/UC0YIIPSKnd_SFEw5FVi_mLQ).
