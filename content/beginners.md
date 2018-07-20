@@ -128,14 +128,8 @@ Our club web site has a [handy scoring tool.](https://seattlemahjong.club/pointc
 The game ends when all players have completed 2 rounds as dealer not including bonus hands, East 1, East 2, East 3, East 4, South 1, South 2, South 3, and South 4.
 
 ## Links
-You can find many places online that sell mahjong sets.
-We have frequently used [Yellow Mountain Imports](https://ymimports.com) for
-our equipment.
+You can find many places online that sell mahjong sets.  We have frequently used [Yellow Mountain Imports](https://ymimports.com) for our equipment.
 
-The [World Riichi Championship web site](https://worldriichi.org/) has
-resources for their regular competitions.  They publish an
-[official rule set](https://worldriichi.org/wrc-rules/) that the
-Seattle Riichi Mahjong Club largely follows.
+The [World Riichi Championship web site](https://worldriichi.org/) has resources for their regular competitions.  They publish an [official rule set](https://worldriichi.org/wrc-rules/) that the Seattle Riichi Mahjong Club largely follows.
 
-
-
+The [North American Riichi Mahjong Association https://www.nariichi.org/](https://www.nariichi.org/) organizes clubs and tournaments across North America.  You can find other clubs near you.
