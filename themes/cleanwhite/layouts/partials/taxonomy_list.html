@@ -1,0 +1,38 @@
+<!-- taxonomy list -->
+
+<div id="non-tag-taxonomies">
+  {{/* Page URL = {{ .Page.URL }} <br /> */}}
+  {{ $parts := split .Page.URL "/" }}  {{/* Parts = {{ $parts }} <br /> */}}
+  {{ $lastindex := sub (len $parts) 2 }} {{/* Last index = {{ $lastindex }} <br /> */}}
+  {{ upper (index $parts $lastindex) }} <br />
+  {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+    {{ if ne $taxonomyname "tags" }}
+      <div class="taxonomy-preview">
+          {{ range $key, $value := $taxonomy }}
+	    {{ if eq $key (index $parts $lastindex) }}
+              <ul>
+                {{ range $value.Pages }}
+                  <li hugo-nav="{{ .RelPermalink}}">
+		    <a href="{{ .Permalink}}">
+		      <h2 class="post-title"> {{ .LinkTitle }}</h2>
+		    </a>
+		    {{with .Params.subtitle }}
+		      <h3 class="post-subtitle"> {{ . }} </h3>
+		    {{ end }}
+		    <div class="post-content-preview">
+		      {{ with .Description }}
+		        {{ . }}
+		      {{ else }}
+		        {{ .Summary}}
+		      {{ end }}
+		    </div>
+		  </li>
+	        {{ end }}
+              </ul>
+            {{ end }}
+          {{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
+<hr>
