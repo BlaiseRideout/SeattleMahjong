@@ -1,31 +1,53 @@
-baseurl = "https://seattlemahjong.com/"
+# baseurl = "https://seattlemahjong.com/"
+baseurl = ""
+title = "Seattle Riichi Mahjong Club"
+theme = "cleanwhite"
 languageCode = "en-us"
-title = "Seattle Riichi Mahjong"
-theme = "blank"
-[menu]
-	[[menu.main]]
-	identifier = "about"
-	name = "About Us"
-	url = "/about"
-	weight = 0
 
-	[[menu.main]]
-	identifier = "beginners"
-	name = "Beginner's Guide"
-	url = "/beginners"
-	weight = 0
+[outputs]
+home = ["HTML", "RSS"]
 
-	[[menu.main]]
-	identifier = "yaku"
-	name = "Guide to Yaku"
-	url = "/yaku"
-	weight = 0
+[params]
+  header_image = "/images/preview.jpg"
+  SEOTitle ="Seattle Riichi Mahjong"
+  description = "Seattle Riichi Mahjong Club"
+  keyword = "Seattle, mahjong, riichi mahjong"
+  slogan = ""
+  showtoc = false
+  preserveTaxonomyNames = true
+  logo = "/images/SRMC-logo.png"
 
-	[[menu.main]]
-	identifier = "scores"
-	name = "Leaderboard and Games"
-	url = "https://seattlemahjong.club"
-	weight = 0
+  image_404 = "/images/SRMC-logo.png"
+  title_404 = "Not found :("
 
-[blackfriday]
-extensions = ["hardLineBreak"]
+  # Sidebar settings
+  sidebar_about_description = "Seattle Riichi Mahjong Club"
+  sidebar_avatar = "images/SRMC-logo.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = false 
+  featured_condition_size = 2 
+
+  [params.social]
+  meetup         = "https://www.meetup.com/SeattleRiichiMahjongClub/"
+  rss            = false 
+  email          = "contact@seattlemahjong.com"
+  facebook      = "https://www.facebook.com/groups/SeattleMahjong"
+  #googleplus    = "full profile url in googleplus"
+  twitter       = "https://twitter.com/SeattleMahjong"
+  #linkedin       = "full profile url in linkedin"
+  #stackoverflow  = "full profile url in stackoverflow"
+  #instagram     = "full profile url in instagram"
+  github         = "https://github.com/BlaiseRitchie/SeattleMahjong"
+  #wechat         = "link of wechat QR code image"
+  #pinterest     = "full profile url in pinterest"
+  
+  [[params.friend_link]]
+  title = "Club Leaderboard and Players"
+  href =  "https://seattlemahjong.club"
+  [[params.friend_link]]
+  title = "Tournament Mahjong"
+  href =  "https://tomas.seattlemahjong.club"
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"] 
