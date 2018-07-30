@@ -28,6 +28,10 @@ Tracks is distributed under the terms of the GNU GPL
     margin-top: -1em;
 }
 
+.logo-image:hover {
+    cursor: pointer;
+}
+
 .wp-caption-text, .excerpt-meta, .entry-meta, .more-link, .pagination, .further-reading span,
 .further-reading a,
 .entry-categories span,
