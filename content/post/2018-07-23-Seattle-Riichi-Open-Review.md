@@ -4,7 +4,7 @@ title:      "2018 Seattle Riichi Open Review"
 subtitle:   ""
 excerpt:    "But instead, he takes the win off of Lillian, meaning that by a margin of 3.3 points, Rachel Halperin wins the 2018 Seattle Riichi Open!"
 date:       2018-07-23
-author:     "Edwin Dizon"
+author:    Edwin Dizon
 image:      "/images/2018-SROpen-flier-banner.png"
 description: "Results and Review of the 2018 Seattle Riichi Open Tournament"
 published: true 

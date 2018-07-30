@@ -3,6 +3,7 @@ date:      "2018-07-24"
 title:     "Cheatsheets and Tools"
 subtitle:  "Useful Materials for Mahjong Players"
 description: "These are materials that help players practice and play the game."
+author:    John Canning
 draft:     false
 categories: [Guide]
 

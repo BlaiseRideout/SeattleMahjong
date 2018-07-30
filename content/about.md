@@ -1,12 +1,13 @@
 ---
-layout:   post
-date: "2018-07-24"
-title: "About Us"
-author: "John Canning"
+layout:      post
+date:        "2018-07-24"
+title:       "About Us"
+author:      "John Canning"
 description: "Introduction to the Seattle Riichi Mahjong Club"
 draft: false
 tags:
     - Seattle Riichi Mahjong
+    - Seattle Riichi Mahjong Club
 categories: []
 
 ---
