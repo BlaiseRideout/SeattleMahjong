@@ -2715,19 +2715,12 @@ li.pingback:first-child {
   margin: 1px 0 12px 0;
 }
 
+.post-heading {
+    background: rgba(50, 50, 50, 0.3);
+}
+
 @media all and (min-width: 43.75em) {
   #bbpress-forums #bbp-search-form #bbp_search {
     width: 500px !important;
   }
 }
-/*
-
-ATTENTION:
-
-Please do not edit this. Your changes will be overwritten when you update Tracks.
-
-If you want to make CSS edits, use the "Custom CSS" section in the Customizer instead (Appearance > Customize).
-
-If you want more information about customizing Tracks with CSS, check out this guide: https://www.competethemes.com/help/custom-css-tracks/
-
-*/
