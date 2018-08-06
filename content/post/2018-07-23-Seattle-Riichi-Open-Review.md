@@ -165,14 +165,14 @@ Here are the final scores:
  1. William Gosewehr -9.9
  1. Bichen Wang -20.2
  1. Anthony Hsieh – 23.5
- 1. Kinyan Lui -36.3
+ 1. Kinyan Lui -36.6
  1. Ayako Shigamatsu -40.3
  1. Abby Hipolito -40.5
  1. Nels Johnson – 64
  1. Luke Powell -84.4
  1. David Li -89.5
+ 1. Richard Tai -108.6
  1. Jaben McCormack -123.9
- 1. Richard Tai -128.6
  1. Zachary Francks W/D
 
 
